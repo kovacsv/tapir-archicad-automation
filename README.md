@@ -26,7 +26,7 @@ Goto [archicad-api.com](https://www.archicad-api.com/) to get more info on plugi
 ## ARCHICAD Addon
 For some functions one must install an Addon developed by [kovacsv](https://github.com/kovacsv) which is based on [tlorantfy](https://github.com/tlorantfy/archicad-additional-json-commands)'s work. (Thank You guys!)
 
-### Installation
+### Installation instructions
 
 Download the latest version here:
 - [Archicad 25 (Windows)](https://github.com/ENZYME-APD/tapir-archicad-automation/releases/latest/download/TapirAddOn_AC25_Win.apx)
